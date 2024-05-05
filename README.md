@@ -4,7 +4,7 @@
 This project simulates a snack vending machine in C++. It provides functionality for selecting products, inserting coins, dispensing products, and returning change.
 
 ## Installation
-- Clone the repository: `git clone https://github.com/yourusername/snack-vending-machine.git`
+- Clone the repository: `git clone https://github.com/TkesevenKing/snack-vending-machine.git`
 - Navigate to the project directory: `cd snack-vending-machine`
 - Compile the code: `g++ main.cpp -o vending_machine`
 
